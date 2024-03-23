@@ -398,3 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 /Libraries/glm
+/Libraries/glfw-3.3.8.bin.WIN64/docs
